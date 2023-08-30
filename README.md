@@ -20,10 +20,8 @@ Este es un proyecto simple de simulación de Blackjack en Python. El código sim
 
 Este es un proyecto simple con fines educativos. Si deseas contribuir, no dudes en abrir un pull request. Sin embargo, ten en cuenta que este proyecto está destinado a ser un ejemplo básico y puede no ser adecuado para desarrollos más complejos.
 
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Puedes encontrar más detalles en el archivo [LICENSE](LICENSE).
-
----
 
 ¡Diviértete explorando y aprendiendo con esta simulación de Blackjack!
+
+
+[def]: LICENSE
